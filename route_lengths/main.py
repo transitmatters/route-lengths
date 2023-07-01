@@ -1,14 +1,13 @@
 import json
 from mbta_gtfs_sqlite import MbtaGtfsArchive
-from mbta_gtfs_sqlite.models import RoutePattern, Trip, ShapePoint, Stop
-from geopy.distance import geodesic
-from typing import List, Any, Tuple
+from mbta_gtfs_sqlite.models import Stop
+from typing import List
 from dataclasses import dataclass
 
-from .geo import CENTER_OF_BOSTON, geotuple_distance, get_stop_geotuple
-from .util import index_by, pairwise
+from .util import pairwise
 from .config import load_config, Config
 from .models import load_models, Models, Shape
+from .geo import geotuple_distance, get_stop_geotuple
 
 
 @dataclass

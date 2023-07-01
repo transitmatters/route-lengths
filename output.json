@@ -3,22 +3,22 @@
     {
       "from_station_id": "place-lake",
       "to_station_id": "place-sougr",
-      "distance": 1.02
+      "distance": 0.76
     },
     {
       "from_station_id": "place-sougr",
       "to_station_id": "place-chill",
-      "distance": 0.52
+      "distance": 0.45
     },
     {
       "from_station_id": "place-chill",
       "to_station_id": "place-chswk",
-      "distance": 0.17
+      "distance": 0.23
     },
     {
       "from_station_id": "place-chswk",
       "to_station_id": "place-sthld",
-      "distance": 0.48
+      "distance": 0.38
     },
     {
       "from_station_id": "place-sthld",
@@ -28,538 +28,538 @@
     {
       "from_station_id": "place-wascm",
       "to_station_id": "place-wrnst",
-      "distance": 0.26
+      "distance": 0.45
     },
     {
       "from_station_id": "place-wrnst",
       "to_station_id": "place-alsgr",
-      "distance": 0.28
+      "distance": 0.24
     },
     {
       "from_station_id": "place-alsgr",
       "to_station_id": "place-grigg",
-      "distance": 0.35
+      "distance": 0.28
     },
     {
       "from_station_id": "place-grigg",
       "to_station_id": "place-harvd",
-      "distance": 0.36
+      "distance": 0.31
     },
     {
       "from_station_id": "place-harvd",
       "to_station_id": "place-brico",
-      "distance": 0.67
+      "distance": 0.54
     },
     {
       "from_station_id": "place-brico",
       "to_station_id": "place-babck",
-      "distance": 0.56
+      "distance": 0.43
     },
     {
       "from_station_id": "place-babck",
       "to_station_id": "place-amory",
-      "distance": 0.37
+      "distance": 0.28
     },
     {
       "from_station_id": "place-amory",
       "to_station_id": "place-bucen",
-      "distance": 0.8
+      "distance": 0.6
     },
     {
       "from_station_id": "place-bucen",
       "to_station_id": "place-buest",
-      "distance": 0.28
+      "distance": 0.21
     },
     {
       "from_station_id": "place-buest",
       "to_station_id": "place-bland",
-      "distance": 0.41
+      "distance": 0.3
     },
     {
       "from_station_id": "place-bland",
       "to_station_id": "place-kencl",
-      "distance": 0.37
+      "distance": 0.28
     },
     {
       "from_station_id": "place-kencl",
       "to_station_id": "place-hymnl",
-      "distance": 0.81
+      "distance": 0.64
     },
     {
       "from_station_id": "place-hymnl",
       "to_station_id": "place-coecl",
-      "distance": 1.02
+      "distance": 0.83
     },
     {
       "from_station_id": "place-coecl",
       "to_station_id": "place-armnl",
-      "distance": 0.1
+      "distance": 0.59
     },
     {
       "from_station_id": "place-armnl",
       "to_station_id": "place-boyls",
-      "distance": 0.7
+      "distance": 0.51
     },
     {
       "from_station_id": "place-boyls",
       "to_station_id": "place-pktrm",
-      "distance": 0.26
+      "distance": 0.46
     },
     {
       "from_station_id": "place-pktrm",
       "to_station_id": "place-gover",
-      "distance": 0.36
+      "distance": 0.42
     },
     {
       "from_station_id": "place-gover",
       "to_station_id": "place-haecl",
-      "distance": 0.23
+      "distance": 0.41
     },
     {
       "from_station_id": "place-haecl",
       "to_station_id": "place-north",
-      "distance": 0.1
+      "distance": 0.13
     },
     {
       "from_station_id": "place-north",
       "to_station_id": "place-spmnl",
-      "distance": 0.77
+      "distance": 0.66
     },
     {
       "from_station_id": "place-spmnl",
       "to_station_id": "place-lech",
-      "distance": 0.99
+      "distance": 0.9
     },
     {
       "from_station_id": "place-lech",
       "to_station_id": "place-esomr",
-      "distance": 1.19
+      "distance": 1.26
     },
     {
       "from_station_id": "place-esomr",
       "to_station_id": "place-gilmn",
-      "distance": 1.07
+      "distance": 1.18
     },
     {
       "from_station_id": "place-gilmn",
       "to_station_id": "place-mgngl",
-      "distance": 1.11
+      "distance": 1.05
     },
     {
       "from_station_id": "place-mgngl",
       "to_station_id": "place-balsq",
-      "distance": 0.53
+      "distance": 0.74
     },
     {
       "from_station_id": "place-balsq",
       "to_station_id": "place-mdftf",
-      "distance": 0.66
+      "distance": 0.92
     }
   ],
   "Green-C": [
     {
-      "from_station_id": "place-mdftf",
-      "to_station_id": "place-balsq",
-      "distance": 0.67
+      "from_station_id": "place-clmnl",
+      "to_station_id": "place-engav",
+      "distance": 0.25
     },
     {
-      "from_station_id": "place-balsq",
-      "to_station_id": "place-mgngl",
-      "distance": 0.5
-    },
-    {
-      "from_station_id": "place-mgngl",
-      "to_station_id": "place-gilmn",
-      "distance": 1.09
-    },
-    {
-      "from_station_id": "place-gilmn",
-      "to_station_id": "place-esomr",
-      "distance": 1.14
-    },
-    {
-      "from_station_id": "place-esomr",
-      "to_station_id": "place-lech",
-      "distance": 1.23
-    },
-    {
-      "from_station_id": "place-lech",
-      "to_station_id": "place-spmnl",
-      "distance": 0.9
-    },
-    {
-      "from_station_id": "place-spmnl",
-      "to_station_id": "place-north",
-      "distance": 0.79
-    },
-    {
-      "from_station_id": "place-north",
-      "to_station_id": "place-haecl",
-      "distance": 0.27
-    },
-    {
-      "from_station_id": "place-haecl",
-      "to_station_id": "place-gover",
+      "from_station_id": "place-engav",
+      "to_station_id": "place-denrd",
       "distance": 0.22
     },
     {
-      "from_station_id": "place-gover",
-      "to_station_id": "place-pktrm",
-      "distance": 0.35
+      "from_station_id": "place-denrd",
+      "to_station_id": "place-tapst",
+      "distance": 0.33
     },
     {
-      "from_station_id": "place-pktrm",
-      "to_station_id": "place-boyls",
+      "from_station_id": "place-tapst",
+      "to_station_id": "place-bcnwa",
       "distance": 0.27
     },
     {
-      "from_station_id": "place-boyls",
-      "to_station_id": "place-armnl",
-      "distance": 0.52
-    },
-    {
-      "from_station_id": "place-armnl",
-      "to_station_id": "place-coecl",
-      "distance": 0.02
-    },
-    {
-      "from_station_id": "place-coecl",
-      "to_station_id": "place-hymnl",
-      "distance": 1.14
-    },
-    {
-      "from_station_id": "place-hymnl",
-      "to_station_id": "place-kencl",
-      "distance": 0.77
-    },
-    {
-      "from_station_id": "place-kencl",
-      "to_station_id": "place-smary",
-      "distance": 1.37
-    },
-    {
-      "from_station_id": "place-smary",
-      "to_station_id": "place-hwsst",
-      "distance": 0.38
-    },
-    {
-      "from_station_id": "place-hwsst",
-      "to_station_id": "place-kntst",
-      "distance": 0.15
-    },
-    {
-      "from_station_id": "place-kntst",
-      "to_station_id": "place-stpul",
-      "distance": 0.28
-    },
-    {
-      "from_station_id": "place-stpul",
-      "to_station_id": "place-cool",
-      "distance": 0.42
-    },
-    {
-      "from_station_id": "place-cool",
-      "to_station_id": "place-sumav",
-      "distance": 0.48
-    },
-    {
-      "from_station_id": "place-sumav",
-      "to_station_id": "place-bndhl",
-      "distance": 0.31
-    },
-    {
-      "from_station_id": "place-bndhl",
+      "from_station_id": "place-bcnwa",
       "to_station_id": "place-fbkst",
       "distance": 0.26
     },
     {
       "from_station_id": "place-fbkst",
-      "to_station_id": "place-bcnwa",
+      "to_station_id": "place-bndhl",
+      "distance": 0.17
+    },
+    {
+      "from_station_id": "place-bndhl",
+      "to_station_id": "place-sumav",
+      "distance": 0.26
+    },
+    {
+      "from_station_id": "place-sumav",
+      "to_station_id": "place-cool",
+      "distance": 0.24
+    },
+    {
+      "from_station_id": "place-cool",
+      "to_station_id": "place-stpul",
+      "distance": 0.23
+    },
+    {
+      "from_station_id": "place-stpul",
+      "to_station_id": "place-kntst",
+      "distance": 0.18
+    },
+    {
+      "from_station_id": "place-kntst",
+      "to_station_id": "place-hwsst",
+      "distance": 0.25
+    },
+    {
+      "from_station_id": "place-hwsst",
+      "to_station_id": "place-smary",
+      "distance": 0.34
+    },
+    {
+      "from_station_id": "place-smary",
+      "to_station_id": "place-kencl",
+      "distance": 1.0
+    },
+    {
+      "from_station_id": "place-kencl",
+      "to_station_id": "place-hymnl",
+      "distance": 0.64
+    },
+    {
+      "from_station_id": "place-hymnl",
+      "to_station_id": "place-coecl",
+      "distance": 0.83
+    },
+    {
+      "from_station_id": "place-coecl",
+      "to_station_id": "place-armnl",
+      "distance": 0.59
+    },
+    {
+      "from_station_id": "place-armnl",
+      "to_station_id": "place-boyls",
+      "distance": 0.51
+    },
+    {
+      "from_station_id": "place-boyls",
+      "to_station_id": "place-pktrm",
+      "distance": 0.46
+    },
+    {
+      "from_station_id": "place-pktrm",
+      "to_station_id": "place-gover",
+      "distance": 0.42
+    },
+    {
+      "from_station_id": "place-gover",
+      "to_station_id": "place-haecl",
       "distance": 0.41
     },
     {
-      "from_station_id": "place-bcnwa",
-      "to_station_id": "place-tapst",
-      "distance": 0.3
+      "from_station_id": "place-haecl",
+      "to_station_id": "place-north",
+      "distance": 0.13
     },
     {
-      "from_station_id": "place-tapst",
-      "to_station_id": "place-denrd",
-      "distance": 0.3
+      "from_station_id": "place-north",
+      "to_station_id": "place-spmnl",
+      "distance": 0.66
     },
     {
-      "from_station_id": "place-denrd",
-      "to_station_id": "place-engav",
-      "distance": 0.41
+      "from_station_id": "place-spmnl",
+      "to_station_id": "place-lech",
+      "distance": 0.9
     },
     {
-      "from_station_id": "place-engav",
-      "to_station_id": "place-clmnl",
-      "distance": 0.31
+      "from_station_id": "place-lech",
+      "to_station_id": "place-esomr",
+      "distance": 1.26
+    },
+    {
+      "from_station_id": "place-esomr",
+      "to_station_id": "place-gilmn",
+      "distance": 1.18
+    },
+    {
+      "from_station_id": "place-gilmn",
+      "to_station_id": "place-mgngl",
+      "distance": 1.05
+    },
+    {
+      "from_station_id": "place-mgngl",
+      "to_station_id": "place-balsq",
+      "distance": 0.74
+    },
+    {
+      "from_station_id": "place-balsq",
+      "to_station_id": "place-mdftf",
+      "distance": 0.92
     }
   ],
   "Green-D": [
     {
-      "from_station_id": "place-mdftf",
-      "to_station_id": "place-balsq",
-      "distance": 0.67
-    },
-    {
-      "from_station_id": "place-balsq",
-      "to_station_id": "place-mgngl",
-      "distance": 0.5
-    },
-    {
-      "from_station_id": "place-mgngl",
-      "to_station_id": "place-gilmn",
-      "distance": 1.09
-    },
-    {
-      "from_station_id": "place-gilmn",
-      "to_station_id": "place-esomr",
-      "distance": 1.14
-    },
-    {
-      "from_station_id": "place-esomr",
-      "to_station_id": "place-lech",
-      "distance": 1.23
-    },
-    {
-      "from_station_id": "place-lech",
-      "to_station_id": "place-spmnl",
-      "distance": 0.9
-    },
-    {
-      "from_station_id": "place-spmnl",
-      "to_station_id": "place-north",
-      "distance": 0.79
-    },
-    {
-      "from_station_id": "place-north",
-      "to_station_id": "place-haecl",
-      "distance": 0.27
-    },
-    {
-      "from_station_id": "place-haecl",
-      "to_station_id": "place-gover",
-      "distance": 0.22
-    },
-    {
-      "from_station_id": "place-gover",
-      "to_station_id": "place-pktrm",
-      "distance": 0.35
-    },
-    {
-      "from_station_id": "place-pktrm",
-      "to_station_id": "place-boyls",
-      "distance": 0.27
-    },
-    {
-      "from_station_id": "place-boyls",
-      "to_station_id": "place-armnl",
-      "distance": 0.52
-    },
-    {
-      "from_station_id": "place-armnl",
-      "to_station_id": "place-coecl",
-      "distance": 0.02
-    },
-    {
-      "from_station_id": "place-coecl",
-      "to_station_id": "place-hymnl",
-      "distance": 1.14
-    },
-    {
-      "from_station_id": "place-hymnl",
-      "to_station_id": "place-kencl",
-      "distance": 0.77
-    },
-    {
-      "from_station_id": "place-kencl",
-      "to_station_id": "place-fenwy",
-      "distance": 1.05
-    },
-    {
-      "from_station_id": "place-fenwy",
-      "to_station_id": "place-longw",
-      "distance": 0.58
-    },
-    {
-      "from_station_id": "place-longw",
-      "to_station_id": "place-bvmnl",
-      "distance": 0.8
-    },
-    {
-      "from_station_id": "place-bvmnl",
-      "to_station_id": "place-brkhl",
-      "distance": 1.1
-    },
-    {
-      "from_station_id": "place-brkhl",
-      "to_station_id": "place-bcnfd",
-      "distance": 1.55
-    },
-    {
-      "from_station_id": "place-bcnfd",
-      "to_station_id": "place-rsmnl",
-      "distance": 0.84
-    },
-    {
-      "from_station_id": "place-rsmnl",
-      "to_station_id": "place-chhil",
-      "distance": 1.8
-    },
-    {
-      "from_station_id": "place-chhil",
-      "to_station_id": "place-newto",
-      "distance": 3.1
-    },
-    {
-      "from_station_id": "place-newto",
-      "to_station_id": "place-newtn",
-      "distance": 1.41
-    },
-    {
-      "from_station_id": "place-newtn",
-      "to_station_id": "place-eliot",
-      "distance": 1.28
-    },
-    {
-      "from_station_id": "place-eliot",
-      "to_station_id": "place-waban",
-      "distance": 1.51
-    },
-    {
-      "from_station_id": "place-waban",
+      "from_station_id": "place-river",
       "to_station_id": "place-woodl",
-      "distance": 1.43
+      "distance": 0.85
     },
     {
       "from_station_id": "place-woodl",
-      "to_station_id": "place-river",
+      "to_station_id": "place-waban",
+      "distance": 1.3
+    },
+    {
+      "from_station_id": "place-waban",
+      "to_station_id": "place-eliot",
+      "distance": 1.32
+    },
+    {
+      "from_station_id": "place-eliot",
+      "to_station_id": "place-newtn",
+      "distance": 1.15
+    },
+    {
+      "from_station_id": "place-newtn",
+      "to_station_id": "place-newto",
+      "distance": 1.3
+    },
+    {
+      "from_station_id": "place-newto",
+      "to_station_id": "place-chhil",
+      "distance": 2.33
+    },
+    {
+      "from_station_id": "place-chhil",
+      "to_station_id": "place-rsmnl",
+      "distance": 1.61
+    },
+    {
+      "from_station_id": "place-rsmnl",
+      "to_station_id": "place-bcnfd",
+      "distance": 0.63
+    },
+    {
+      "from_station_id": "place-bcnfd",
+      "to_station_id": "place-brkhl",
+      "distance": 1.25
+    },
+    {
+      "from_station_id": "place-brkhl",
+      "to_station_id": "place-bvmnl",
+      "distance": 0.77
+    },
+    {
+      "from_station_id": "place-bvmnl",
+      "to_station_id": "place-longw",
+      "distance": 1.19
+    },
+    {
+      "from_station_id": "place-longw",
+      "to_station_id": "place-fenwy",
+      "distance": 0.57
+    },
+    {
+      "from_station_id": "place-fenwy",
+      "to_station_id": "place-kencl",
+      "distance": 0.85
+    },
+    {
+      "from_station_id": "place-kencl",
+      "to_station_id": "place-hymnl",
+      "distance": 0.64
+    },
+    {
+      "from_station_id": "place-hymnl",
+      "to_station_id": "place-coecl",
+      "distance": 0.83
+    },
+    {
+      "from_station_id": "place-coecl",
+      "to_station_id": "place-armnl",
+      "distance": 0.59
+    },
+    {
+      "from_station_id": "place-armnl",
+      "to_station_id": "place-boyls",
+      "distance": 0.51
+    },
+    {
+      "from_station_id": "place-boyls",
+      "to_station_id": "place-pktrm",
+      "distance": 0.46
+    },
+    {
+      "from_station_id": "place-pktrm",
+      "to_station_id": "place-gover",
+      "distance": 0.42
+    },
+    {
+      "from_station_id": "place-gover",
+      "to_station_id": "place-haecl",
+      "distance": 0.41
+    },
+    {
+      "from_station_id": "place-haecl",
+      "to_station_id": "place-north",
+      "distance": 0.13
+    },
+    {
+      "from_station_id": "place-north",
+      "to_station_id": "place-spmnl",
+      "distance": 0.66
+    },
+    {
+      "from_station_id": "place-spmnl",
+      "to_station_id": "place-lech",
       "distance": 0.9
+    },
+    {
+      "from_station_id": "place-lech",
+      "to_station_id": "place-esomr",
+      "distance": 1.26
+    },
+    {
+      "from_station_id": "place-esomr",
+      "to_station_id": "place-gilmn",
+      "distance": 1.18
+    },
+    {
+      "from_station_id": "place-gilmn",
+      "to_station_id": "place-mgngl",
+      "distance": 1.05
+    },
+    {
+      "from_station_id": "place-mgngl",
+      "to_station_id": "place-balsq",
+      "distance": 0.74
+    },
+    {
+      "from_station_id": "place-balsq",
+      "to_station_id": "place-mdftf",
+      "distance": 0.92
     }
   ],
   "Green-E": [
     {
-      "from_station_id": "place-mdftf",
-      "to_station_id": "place-balsq",
-      "distance": 0.67
-    },
-    {
-      "from_station_id": "place-balsq",
-      "to_station_id": "place-mgngl",
-      "distance": 0.5
-    },
-    {
-      "from_station_id": "place-mgngl",
-      "to_station_id": "place-gilmn",
-      "distance": 1.09
-    },
-    {
-      "from_station_id": "place-gilmn",
-      "to_station_id": "place-esomr",
-      "distance": 1.14
-    },
-    {
-      "from_station_id": "place-esomr",
-      "to_station_id": "place-lech",
-      "distance": 1.23
-    },
-    {
-      "from_station_id": "place-lech",
-      "to_station_id": "place-spmnl",
-      "distance": 0.9
-    },
-    {
-      "from_station_id": "place-spmnl",
-      "to_station_id": "place-north",
-      "distance": 0.79
-    },
-    {
-      "from_station_id": "place-north",
-      "to_station_id": "place-haecl",
-      "distance": 0.27
-    },
-    {
-      "from_station_id": "place-haecl",
-      "to_station_id": "place-gover",
-      "distance": 0.22
-    },
-    {
-      "from_station_id": "place-gover",
-      "to_station_id": "place-pktrm",
-      "distance": 0.35
-    },
-    {
-      "from_station_id": "place-pktrm",
-      "to_station_id": "place-boyls",
-      "distance": 0.27
-    },
-    {
-      "from_station_id": "place-boyls",
-      "to_station_id": "place-armnl",
-      "distance": 0.52
-    },
-    {
-      "from_station_id": "place-armnl",
-      "to_station_id": "place-coecl",
-      "distance": 0.02
-    },
-    {
-      "from_station_id": "place-coecl",
-      "to_station_id": "place-prmnl",
-      "distance": 0.55
-    },
-    {
-      "from_station_id": "place-prmnl",
-      "to_station_id": "place-symcl",
-      "distance": 0.37
-    },
-    {
-      "from_station_id": "place-symcl",
-      "to_station_id": "place-nuniv",
-      "distance": 0.5
-    },
-    {
-      "from_station_id": "place-nuniv",
-      "to_station_id": "place-mfa",
-      "distance": 0.38
-    },
-    {
-      "from_station_id": "place-mfa",
-      "to_station_id": "place-lngmd",
-      "distance": 0.49
-    },
-    {
-      "from_station_id": "place-lngmd",
-      "to_station_id": "place-brmnl",
-      "distance": 0.49
-    },
-    {
-      "from_station_id": "place-brmnl",
-      "to_station_id": "place-fenwd",
-      "distance": 0.1
-    },
-    {
-      "from_station_id": "place-fenwd",
-      "to_station_id": "place-mispk",
-      "distance": 0.38
-    },
-    {
-      "from_station_id": "place-mispk",
-      "to_station_id": "place-rvrwy",
-      "distance": 0.3
-    },
-    {
-      "from_station_id": "place-rvrwy",
+      "from_station_id": "place-hsmnl",
       "to_station_id": "place-bckhl",
-      "distance": 0.09
+      "distance": 0.12
     },
     {
       "from_station_id": "place-bckhl",
-      "to_station_id": "place-hsmnl",
-      "distance": 0.1
+      "to_station_id": "place-rvrwy",
+      "distance": 0.26
+    },
+    {
+      "from_station_id": "place-rvrwy",
+      "to_station_id": "place-mispk",
+      "distance": 0.23
+    },
+    {
+      "from_station_id": "place-mispk",
+      "to_station_id": "place-fenwd",
+      "distance": 0.33
+    },
+    {
+      "from_station_id": "place-fenwd",
+      "to_station_id": "place-brmnl",
+      "distance": 0.19
+    },
+    {
+      "from_station_id": "place-brmnl",
+      "to_station_id": "place-lngmd",
+      "distance": 0.22
+    },
+    {
+      "from_station_id": "place-lngmd",
+      "to_station_id": "place-mfa",
+      "distance": 0.37
+    },
+    {
+      "from_station_id": "place-mfa",
+      "to_station_id": "place-nuniv",
+      "distance": 0.53
+    },
+    {
+      "from_station_id": "place-nuniv",
+      "to_station_id": "place-symcl",
+      "distance": 0.41
+    },
+    {
+      "from_station_id": "place-symcl",
+      "to_station_id": "place-prmnl",
+      "distance": 0.39
+    },
+    {
+      "from_station_id": "place-prmnl",
+      "to_station_id": "place-coecl",
+      "distance": 0.6
+    },
+    {
+      "from_station_id": "place-coecl",
+      "to_station_id": "place-armnl",
+      "distance": 0.59
+    },
+    {
+      "from_station_id": "place-armnl",
+      "to_station_id": "place-boyls",
+      "distance": 0.51
+    },
+    {
+      "from_station_id": "place-boyls",
+      "to_station_id": "place-pktrm",
+      "distance": 0.46
+    },
+    {
+      "from_station_id": "place-pktrm",
+      "to_station_id": "place-gover",
+      "distance": 0.42
+    },
+    {
+      "from_station_id": "place-gover",
+      "to_station_id": "place-haecl",
+      "distance": 0.41
+    },
+    {
+      "from_station_id": "place-haecl",
+      "to_station_id": "place-north",
+      "distance": 0.13
+    },
+    {
+      "from_station_id": "place-north",
+      "to_station_id": "place-spmnl",
+      "distance": 0.66
+    },
+    {
+      "from_station_id": "place-spmnl",
+      "to_station_id": "place-lech",
+      "distance": 0.9
+    },
+    {
+      "from_station_id": "place-lech",
+      "to_station_id": "place-esomr",
+      "distance": 1.26
+    },
+    {
+      "from_station_id": "place-esomr",
+      "to_station_id": "place-gilmn",
+      "distance": 1.18
+    },
+    {
+      "from_station_id": "place-gilmn",
+      "to_station_id": "place-mgngl",
+      "distance": 1.05
+    },
+    {
+      "from_station_id": "place-mgngl",
+      "to_station_id": "place-balsq",
+      "distance": 0.74
+    },
+    {
+      "from_station_id": "place-balsq",
+      "to_station_id": "place-mdftf",
+      "distance": 0.92
     }
   ]
 }
