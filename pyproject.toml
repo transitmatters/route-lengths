@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "route-lengths"
+version = "0.1.0"
+description = ""
+authors = ["Ian Reynolds <ireynolds@transitmatters.info>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+black = "^23.3.0"
+mbta-gtfs-sqlite = "^0.9.14"
+geopy = "^2.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
