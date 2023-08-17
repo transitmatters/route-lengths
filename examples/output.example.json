@@ -3,156 +3,218 @@
     {
       "from_station_id": "place-lake",
       "to_station_id": "place-sougr",
+      "from_station_name": "Boston College",
+      "to_station_name": "South Street",
       "distance": 0.76
     },
     {
       "from_station_id": "place-sougr",
       "to_station_id": "place-chill",
+      "from_station_name": "South Street",
+      "to_station_name": "Chestnut Hill Avenue",
       "distance": 0.45
     },
     {
       "from_station_id": "place-chill",
       "to_station_id": "place-chswk",
+      "from_station_name": "Chestnut Hill Avenue",
+      "to_station_name": "Chiswick Road",
       "distance": 0.23
     },
     {
       "from_station_id": "place-chswk",
       "to_station_id": "place-sthld",
+      "from_station_name": "Chiswick Road",
+      "to_station_name": "Sutherland Road",
       "distance": 0.38
     },
     {
       "from_station_id": "place-sthld",
       "to_station_id": "place-wascm",
+      "from_station_name": "Sutherland Road",
+      "to_station_name": "Washington Street",
       "distance": 0.4
     },
     {
       "from_station_id": "place-wascm",
       "to_station_id": "place-wrnst",
+      "from_station_name": "Washington Street",
+      "to_station_name": "Warren Street",
       "distance": 0.45
     },
     {
       "from_station_id": "place-wrnst",
       "to_station_id": "place-alsgr",
+      "from_station_name": "Warren Street",
+      "to_station_name": "Allston Street",
       "distance": 0.24
     },
     {
       "from_station_id": "place-alsgr",
       "to_station_id": "place-grigg",
+      "from_station_name": "Allston Street",
+      "to_station_name": "Griggs Street",
       "distance": 0.28
     },
     {
       "from_station_id": "place-grigg",
       "to_station_id": "place-harvd",
+      "from_station_name": "Griggs Street",
+      "to_station_name": "Harvard Avenue",
       "distance": 0.31
     },
     {
       "from_station_id": "place-harvd",
       "to_station_id": "place-brico",
+      "from_station_name": "Harvard Avenue",
+      "to_station_name": "Packard's Corner",
       "distance": 0.54
     },
     {
       "from_station_id": "place-brico",
       "to_station_id": "place-babck",
+      "from_station_name": "Packard's Corner",
+      "to_station_name": "Babcock Street",
       "distance": 0.43
     },
     {
       "from_station_id": "place-babck",
       "to_station_id": "place-amory",
+      "from_station_name": "Babcock Street",
+      "to_station_name": "Amory Street",
       "distance": 0.28
     },
     {
       "from_station_id": "place-amory",
       "to_station_id": "place-bucen",
+      "from_station_name": "Amory Street",
+      "to_station_name": "Boston University Central",
       "distance": 0.6
     },
     {
       "from_station_id": "place-bucen",
       "to_station_id": "place-buest",
+      "from_station_name": "Boston University Central",
+      "to_station_name": "Boston University East",
       "distance": 0.21
     },
     {
       "from_station_id": "place-buest",
       "to_station_id": "place-bland",
+      "from_station_name": "Boston University East",
+      "to_station_name": "Blandford Street",
       "distance": 0.3
     },
     {
       "from_station_id": "place-bland",
       "to_station_id": "place-kencl",
+      "from_station_name": "Blandford Street",
+      "to_station_name": "Kenmore",
       "distance": 0.28
     },
     {
       "from_station_id": "place-kencl",
       "to_station_id": "place-hymnl",
+      "from_station_name": "Kenmore",
+      "to_station_name": "Hynes Convention Center",
       "distance": 0.64
     },
     {
       "from_station_id": "place-hymnl",
       "to_station_id": "place-coecl",
+      "from_station_name": "Hynes Convention Center",
+      "to_station_name": "Copley",
       "distance": 0.83
     },
     {
       "from_station_id": "place-coecl",
       "to_station_id": "place-armnl",
+      "from_station_name": "Copley",
+      "to_station_name": "Arlington",
       "distance": 0.59
     },
     {
       "from_station_id": "place-armnl",
       "to_station_id": "place-boyls",
+      "from_station_name": "Arlington",
+      "to_station_name": "Boylston",
       "distance": 0.51
     },
     {
       "from_station_id": "place-boyls",
       "to_station_id": "place-pktrm",
+      "from_station_name": "Boylston",
+      "to_station_name": "Park Street",
       "distance": 0.46
     },
     {
       "from_station_id": "place-pktrm",
       "to_station_id": "place-gover",
+      "from_station_name": "Park Street",
+      "to_station_name": "Government Center",
       "distance": 0.42
     },
     {
       "from_station_id": "place-gover",
       "to_station_id": "place-haecl",
+      "from_station_name": "Government Center",
+      "to_station_name": "Haymarket",
       "distance": 0.41
     },
     {
       "from_station_id": "place-haecl",
       "to_station_id": "place-north",
+      "from_station_name": "Haymarket",
+      "to_station_name": "North Station",
       "distance": 0.13
     },
     {
       "from_station_id": "place-north",
       "to_station_id": "place-spmnl",
+      "from_station_name": "North Station",
+      "to_station_name": "Science Park/West End",
       "distance": 0.66
     },
     {
       "from_station_id": "place-spmnl",
       "to_station_id": "place-lech",
+      "from_station_name": "Science Park/West End",
+      "to_station_name": "Lechmere",
       "distance": 0.9
     },
     {
       "from_station_id": "place-lech",
       "to_station_id": "place-esomr",
+      "from_station_name": "Lechmere",
+      "to_station_name": "East Somerville",
       "distance": 1.26
     },
     {
       "from_station_id": "place-esomr",
       "to_station_id": "place-gilmn",
+      "from_station_name": "East Somerville",
+      "to_station_name": "Gilman Square",
       "distance": 1.18
     },
     {
       "from_station_id": "place-gilmn",
       "to_station_id": "place-mgngl",
+      "from_station_name": "Gilman Square",
+      "to_station_name": "Magoun Square",
       "distance": 1.05
     },
     {
       "from_station_id": "place-mgngl",
       "to_station_id": "place-balsq",
+      "from_station_name": "Magoun Square",
+      "to_station_name": "Ball Square",
       "distance": 0.74
     },
     {
       "from_station_id": "place-balsq",
       "to_station_id": "place-mdftf",
+      "from_station_name": "Ball Square",
+      "to_station_name": "Medford/Tufts",
       "distance": 0.92
     }
   ],
@@ -160,141 +222,197 @@
     {
       "from_station_id": "place-clmnl",
       "to_station_id": "place-engav",
+      "from_station_name": "Cleveland Circle",
+      "to_station_name": "Englewood Avenue",
       "distance": 0.25
     },
     {
       "from_station_id": "place-engav",
       "to_station_id": "place-denrd",
+      "from_station_name": "Englewood Avenue",
+      "to_station_name": "Dean Road",
       "distance": 0.22
     },
     {
       "from_station_id": "place-denrd",
       "to_station_id": "place-tapst",
+      "from_station_name": "Dean Road",
+      "to_station_name": "Tappan Street",
       "distance": 0.33
     },
     {
       "from_station_id": "place-tapst",
       "to_station_id": "place-bcnwa",
+      "from_station_name": "Tappan Street",
+      "to_station_name": "Washington Square",
       "distance": 0.27
     },
     {
       "from_station_id": "place-bcnwa",
       "to_station_id": "place-fbkst",
+      "from_station_name": "Washington Square",
+      "to_station_name": "Fairbanks Street",
       "distance": 0.26
     },
     {
       "from_station_id": "place-fbkst",
       "to_station_id": "place-bndhl",
+      "from_station_name": "Fairbanks Street",
+      "to_station_name": "Brandon Hall",
       "distance": 0.17
     },
     {
       "from_station_id": "place-bndhl",
       "to_station_id": "place-sumav",
+      "from_station_name": "Brandon Hall",
+      "to_station_name": "Summit Avenue",
       "distance": 0.26
     },
     {
       "from_station_id": "place-sumav",
       "to_station_id": "place-cool",
+      "from_station_name": "Summit Avenue",
+      "to_station_name": "Coolidge Corner",
       "distance": 0.24
     },
     {
       "from_station_id": "place-cool",
       "to_station_id": "place-stpul",
+      "from_station_name": "Coolidge Corner",
+      "to_station_name": "Saint Paul Street",
       "distance": 0.23
     },
     {
       "from_station_id": "place-stpul",
       "to_station_id": "place-kntst",
+      "from_station_name": "Saint Paul Street",
+      "to_station_name": "Kent Street",
       "distance": 0.18
     },
     {
       "from_station_id": "place-kntst",
       "to_station_id": "place-hwsst",
+      "from_station_name": "Kent Street",
+      "to_station_name": "Hawes Street",
       "distance": 0.25
     },
     {
       "from_station_id": "place-hwsst",
       "to_station_id": "place-smary",
+      "from_station_name": "Hawes Street",
+      "to_station_name": "Saint Mary's Street",
       "distance": 0.34
     },
     {
       "from_station_id": "place-smary",
       "to_station_id": "place-kencl",
+      "from_station_name": "Saint Mary's Street",
+      "to_station_name": "Kenmore",
       "distance": 1.0
     },
     {
       "from_station_id": "place-kencl",
       "to_station_id": "place-hymnl",
+      "from_station_name": "Kenmore",
+      "to_station_name": "Hynes Convention Center",
       "distance": 0.64
     },
     {
       "from_station_id": "place-hymnl",
       "to_station_id": "place-coecl",
+      "from_station_name": "Hynes Convention Center",
+      "to_station_name": "Copley",
       "distance": 0.83
     },
     {
       "from_station_id": "place-coecl",
       "to_station_id": "place-armnl",
+      "from_station_name": "Copley",
+      "to_station_name": "Arlington",
       "distance": 0.59
     },
     {
       "from_station_id": "place-armnl",
       "to_station_id": "place-boyls",
+      "from_station_name": "Arlington",
+      "to_station_name": "Boylston",
       "distance": 0.51
     },
     {
       "from_station_id": "place-boyls",
       "to_station_id": "place-pktrm",
+      "from_station_name": "Boylston",
+      "to_station_name": "Park Street",
       "distance": 0.46
     },
     {
       "from_station_id": "place-pktrm",
       "to_station_id": "place-gover",
+      "from_station_name": "Park Street",
+      "to_station_name": "Government Center",
       "distance": 0.42
     },
     {
       "from_station_id": "place-gover",
       "to_station_id": "place-haecl",
+      "from_station_name": "Government Center",
+      "to_station_name": "Haymarket",
       "distance": 0.41
     },
     {
       "from_station_id": "place-haecl",
       "to_station_id": "place-north",
+      "from_station_name": "Haymarket",
+      "to_station_name": "North Station",
       "distance": 0.13
     },
     {
       "from_station_id": "place-north",
       "to_station_id": "place-spmnl",
+      "from_station_name": "North Station",
+      "to_station_name": "Science Park/West End",
       "distance": 0.66
     },
     {
       "from_station_id": "place-spmnl",
       "to_station_id": "place-lech",
+      "from_station_name": "Science Park/West End",
+      "to_station_name": "Lechmere",
       "distance": 0.9
     },
     {
       "from_station_id": "place-lech",
       "to_station_id": "place-esomr",
+      "from_station_name": "Lechmere",
+      "to_station_name": "East Somerville",
       "distance": 1.26
     },
     {
       "from_station_id": "place-esomr",
       "to_station_id": "place-gilmn",
+      "from_station_name": "East Somerville",
+      "to_station_name": "Gilman Square",
       "distance": 1.18
     },
     {
       "from_station_id": "place-gilmn",
       "to_station_id": "place-mgngl",
+      "from_station_name": "Gilman Square",
+      "to_station_name": "Magoun Square",
       "distance": 1.05
     },
     {
       "from_station_id": "place-mgngl",
       "to_station_id": "place-balsq",
+      "from_station_name": "Magoun Square",
+      "to_station_name": "Ball Square",
       "distance": 0.74
     },
     {
       "from_station_id": "place-balsq",
       "to_station_id": "place-mdftf",
+      "from_station_name": "Ball Square",
+      "to_station_name": "Medford/Tufts",
       "distance": 0.92
     }
   ],
@@ -302,141 +420,197 @@
     {
       "from_station_id": "place-river",
       "to_station_id": "place-woodl",
+      "from_station_name": "Riverside",
+      "to_station_name": "Woodland",
       "distance": 0.85
     },
     {
       "from_station_id": "place-woodl",
       "to_station_id": "place-waban",
+      "from_station_name": "Woodland",
+      "to_station_name": "Waban",
       "distance": 1.3
     },
     {
       "from_station_id": "place-waban",
       "to_station_id": "place-eliot",
+      "from_station_name": "Waban",
+      "to_station_name": "Eliot",
       "distance": 1.32
     },
     {
       "from_station_id": "place-eliot",
       "to_station_id": "place-newtn",
+      "from_station_name": "Eliot",
+      "to_station_name": "Newton Highlands",
       "distance": 1.15
     },
     {
       "from_station_id": "place-newtn",
       "to_station_id": "place-newto",
+      "from_station_name": "Newton Highlands",
+      "to_station_name": "Newton Centre",
       "distance": 1.3
     },
     {
       "from_station_id": "place-newto",
       "to_station_id": "place-chhil",
+      "from_station_name": "Newton Centre",
+      "to_station_name": "Chestnut Hill",
       "distance": 2.33
     },
     {
       "from_station_id": "place-chhil",
       "to_station_id": "place-rsmnl",
+      "from_station_name": "Chestnut Hill",
+      "to_station_name": "Reservoir",
       "distance": 1.61
     },
     {
       "from_station_id": "place-rsmnl",
       "to_station_id": "place-bcnfd",
+      "from_station_name": "Reservoir",
+      "to_station_name": "Beaconsfield",
       "distance": 0.63
     },
     {
       "from_station_id": "place-bcnfd",
       "to_station_id": "place-brkhl",
+      "from_station_name": "Beaconsfield",
+      "to_station_name": "Brookline Hills",
       "distance": 1.25
     },
     {
       "from_station_id": "place-brkhl",
       "to_station_id": "place-bvmnl",
+      "from_station_name": "Brookline Hills",
+      "to_station_name": "Brookline Village",
       "distance": 0.77
     },
     {
       "from_station_id": "place-bvmnl",
       "to_station_id": "place-longw",
+      "from_station_name": "Brookline Village",
+      "to_station_name": "Longwood",
       "distance": 1.19
     },
     {
       "from_station_id": "place-longw",
       "to_station_id": "place-fenwy",
+      "from_station_name": "Longwood",
+      "to_station_name": "Fenway",
       "distance": 0.57
     },
     {
       "from_station_id": "place-fenwy",
       "to_station_id": "place-kencl",
+      "from_station_name": "Fenway",
+      "to_station_name": "Kenmore",
       "distance": 0.85
     },
     {
       "from_station_id": "place-kencl",
       "to_station_id": "place-hymnl",
+      "from_station_name": "Kenmore",
+      "to_station_name": "Hynes Convention Center",
       "distance": 0.64
     },
     {
       "from_station_id": "place-hymnl",
       "to_station_id": "place-coecl",
+      "from_station_name": "Hynes Convention Center",
+      "to_station_name": "Copley",
       "distance": 0.83
     },
     {
       "from_station_id": "place-coecl",
       "to_station_id": "place-armnl",
+      "from_station_name": "Copley",
+      "to_station_name": "Arlington",
       "distance": 0.59
     },
     {
       "from_station_id": "place-armnl",
       "to_station_id": "place-boyls",
+      "from_station_name": "Arlington",
+      "to_station_name": "Boylston",
       "distance": 0.51
     },
     {
       "from_station_id": "place-boyls",
       "to_station_id": "place-pktrm",
+      "from_station_name": "Boylston",
+      "to_station_name": "Park Street",
       "distance": 0.46
     },
     {
       "from_station_id": "place-pktrm",
       "to_station_id": "place-gover",
+      "from_station_name": "Park Street",
+      "to_station_name": "Government Center",
       "distance": 0.42
     },
     {
       "from_station_id": "place-gover",
       "to_station_id": "place-haecl",
+      "from_station_name": "Government Center",
+      "to_station_name": "Haymarket",
       "distance": 0.41
     },
     {
       "from_station_id": "place-haecl",
       "to_station_id": "place-north",
+      "from_station_name": "Haymarket",
+      "to_station_name": "North Station",
       "distance": 0.13
     },
     {
       "from_station_id": "place-north",
       "to_station_id": "place-spmnl",
+      "from_station_name": "North Station",
+      "to_station_name": "Science Park/West End",
       "distance": 0.66
     },
     {
       "from_station_id": "place-spmnl",
       "to_station_id": "place-lech",
+      "from_station_name": "Science Park/West End",
+      "to_station_name": "Lechmere",
       "distance": 0.9
     },
     {
       "from_station_id": "place-lech",
       "to_station_id": "place-esomr",
+      "from_station_name": "Lechmere",
+      "to_station_name": "East Somerville",
       "distance": 1.26
     },
     {
       "from_station_id": "place-esomr",
       "to_station_id": "place-gilmn",
+      "from_station_name": "East Somerville",
+      "to_station_name": "Gilman Square",
       "distance": 1.18
     },
     {
       "from_station_id": "place-gilmn",
       "to_station_id": "place-mgngl",
+      "from_station_name": "Gilman Square",
+      "to_station_name": "Magoun Square",
       "distance": 1.05
     },
     {
       "from_station_id": "place-mgngl",
       "to_station_id": "place-balsq",
+      "from_station_name": "Magoun Square",
+      "to_station_name": "Ball Square",
       "distance": 0.74
     },
     {
       "from_station_id": "place-balsq",
       "to_station_id": "place-mdftf",
+      "from_station_name": "Ball Square",
+      "to_station_name": "Medford/Tufts",
       "distance": 0.92
     }
   ],
@@ -444,121 +618,169 @@
     {
       "from_station_id": "place-hsmnl",
       "to_station_id": "place-bckhl",
+      "from_station_name": "Heath Street",
+      "to_station_name": "Back of the Hill",
       "distance": 0.12
     },
     {
       "from_station_id": "place-bckhl",
       "to_station_id": "place-rvrwy",
+      "from_station_name": "Back of the Hill",
+      "to_station_name": "Riverway",
       "distance": 0.26
     },
     {
       "from_station_id": "place-rvrwy",
       "to_station_id": "place-mispk",
+      "from_station_name": "Riverway",
+      "to_station_name": "Mission Park",
       "distance": 0.23
     },
     {
       "from_station_id": "place-mispk",
       "to_station_id": "place-fenwd",
+      "from_station_name": "Mission Park",
+      "to_station_name": "Fenwood Road",
       "distance": 0.33
     },
     {
       "from_station_id": "place-fenwd",
       "to_station_id": "place-brmnl",
+      "from_station_name": "Fenwood Road",
+      "to_station_name": "Brigham Circle",
       "distance": 0.19
     },
     {
       "from_station_id": "place-brmnl",
       "to_station_id": "place-lngmd",
+      "from_station_name": "Brigham Circle",
+      "to_station_name": "Longwood Medical Area",
       "distance": 0.22
     },
     {
       "from_station_id": "place-lngmd",
       "to_station_id": "place-mfa",
+      "from_station_name": "Longwood Medical Area",
+      "to_station_name": "Museum of Fine Arts",
       "distance": 0.37
     },
     {
       "from_station_id": "place-mfa",
       "to_station_id": "place-nuniv",
+      "from_station_name": "Museum of Fine Arts",
+      "to_station_name": "Northeastern University",
       "distance": 0.53
     },
     {
       "from_station_id": "place-nuniv",
       "to_station_id": "place-symcl",
+      "from_station_name": "Northeastern University",
+      "to_station_name": "Symphony",
       "distance": 0.41
     },
     {
       "from_station_id": "place-symcl",
       "to_station_id": "place-prmnl",
+      "from_station_name": "Symphony",
+      "to_station_name": "Prudential",
       "distance": 0.39
     },
     {
       "from_station_id": "place-prmnl",
       "to_station_id": "place-coecl",
+      "from_station_name": "Prudential",
+      "to_station_name": "Copley",
       "distance": 0.6
     },
     {
       "from_station_id": "place-coecl",
       "to_station_id": "place-armnl",
+      "from_station_name": "Copley",
+      "to_station_name": "Arlington",
       "distance": 0.59
     },
     {
       "from_station_id": "place-armnl",
       "to_station_id": "place-boyls",
+      "from_station_name": "Arlington",
+      "to_station_name": "Boylston",
       "distance": 0.51
     },
     {
       "from_station_id": "place-boyls",
       "to_station_id": "place-pktrm",
+      "from_station_name": "Boylston",
+      "to_station_name": "Park Street",
       "distance": 0.46
     },
     {
       "from_station_id": "place-pktrm",
       "to_station_id": "place-gover",
+      "from_station_name": "Park Street",
+      "to_station_name": "Government Center",
       "distance": 0.42
     },
     {
       "from_station_id": "place-gover",
       "to_station_id": "place-haecl",
+      "from_station_name": "Government Center",
+      "to_station_name": "Haymarket",
       "distance": 0.41
     },
     {
       "from_station_id": "place-haecl",
       "to_station_id": "place-north",
+      "from_station_name": "Haymarket",
+      "to_station_name": "North Station",
       "distance": 0.13
     },
     {
       "from_station_id": "place-north",
       "to_station_id": "place-spmnl",
+      "from_station_name": "North Station",
+      "to_station_name": "Science Park/West End",
       "distance": 0.66
     },
     {
       "from_station_id": "place-spmnl",
       "to_station_id": "place-lech",
+      "from_station_name": "Science Park/West End",
+      "to_station_name": "Lechmere",
       "distance": 0.9
     },
     {
       "from_station_id": "place-lech",
       "to_station_id": "place-esomr",
+      "from_station_name": "Lechmere",
+      "to_station_name": "East Somerville",
       "distance": 1.26
     },
     {
       "from_station_id": "place-esomr",
       "to_station_id": "place-gilmn",
+      "from_station_name": "East Somerville",
+      "to_station_name": "Gilman Square",
       "distance": 1.18
     },
     {
       "from_station_id": "place-gilmn",
       "to_station_id": "place-mgngl",
+      "from_station_name": "Gilman Square",
+      "to_station_name": "Magoun Square",
       "distance": 1.05
     },
     {
       "from_station_id": "place-mgngl",
       "to_station_id": "place-balsq",
+      "from_station_name": "Magoun Square",
+      "to_station_name": "Ball Square",
       "distance": 0.74
     },
     {
       "from_station_id": "place-balsq",
       "to_station_id": "place-mdftf",
+      "from_station_name": "Ball Square",
+      "to_station_name": "Medford/Tufts",
       "distance": 0.92
     }
   ]

@@ -1,4 +1,5 @@
 import json
+import tqdm
 from mbta_gtfs_sqlite import MbtaGtfsArchive
 from mbta_gtfs_sqlite.models import Stop
 from typing import List
@@ -12,8 +13,8 @@ from .geo import geotuple_distance, get_stop_geotuple
 
 @dataclass
 class PairwiseDistance:
-    from_station_id: str
-    to_station_id: str
+    from_stop: Stop
+    to_stop: Stop
     distance: float
 
 
@@ -40,8 +41,8 @@ def get_pairwise_distances(stops: List[Stop], shape: Shape) -> List[PairwiseDist
         distance = get_shape_length(subshape)
         distances.append(
             PairwiseDistance(
-                from_station_id=from_stop.parent_station,
-                to_station_id=to_stop.parent_station,
+                from_stop=from_stop,
+                to_stop=to_stop,
                 distance=distance,
             )
         )
@@ -76,18 +77,20 @@ def get_route_lengths(config: Config):
     feed.download_or_build()
     session = feed.create_sqlite_session()
     models = load_models(session, config.target_route_ids)
-    for route_id in config.target_route_ids:
+    for route_id in tqdm.tqdm((models.route_patterns_by_route_id.keys())):
         pairwise_distances = get_distances_for_longest_route_pattern(models, route_id)
-        print(f"Route {route_id} has {len(pairwise_distances)} stops")
         output[route_id] = []
         for pd in pairwise_distances:
-            print(
-                f"{pd.from_station_id} -> {pd.to_station_id}: {round(pd.distance, 2)}"
-            )
+            from_station_id = pd.from_stop.parent_station or pd.from_stop.stop_id
+            to_station_id = pd.to_stop.parent_station or pd.to_stop.stop_id
+            from_station_name = models.stops_by_id[from_station_id].stop_name
+            to_station_name = models.stops_by_id[to_station_id].stop_name
             output[route_id].append(
                 {
-                    "from_station_id": pd.from_station_id,
-                    "to_station_id": pd.to_station_id,
+                    "from_station_id": from_station_id,
+                    "to_station_id": to_station_id,
+                    "from_station_name": from_station_name,
+                    "to_station_name": to_station_name,
                     "distance": round(pd.distance, 2),
                 }
             )

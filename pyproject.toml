@@ -7,8 +7,9 @@ authors = ["Ian Reynolds <ireynolds@transitmatters.info>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 black = "^23.3.0"
-mbta-gtfs-sqlite = "^0.9.14"
+mbta-gtfs-sqlite = "^1.0.1"
 geopy = "^2.3.0"
+tqdm = "^4.66.1"
 
 [tool.poetry.dev-dependencies]
 

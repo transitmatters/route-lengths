@@ -1,6 +1,9 @@
 # No not you
 .DS_Store
 
+config.json
+output.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

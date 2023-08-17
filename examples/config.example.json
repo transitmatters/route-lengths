@@ -1,5 +1,5 @@
 {
-    "feedsPath": "/Users/Ian/transitmatters/mbta-gtfs-sqlite/feeds",
+    "feedsPath": "~/path/to/my/feeds",
     "targetRouteIds": [
         "Green-B",
         "Green-C",
