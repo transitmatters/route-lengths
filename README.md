@@ -1,4 +1,4 @@
-## MBTA Route Lengths
+# MBTA Route Lengths
 
 This is code to calculate the length of MBTA routes from GTFS bundles. The output takes the form of a JSON file with this structure:
 
