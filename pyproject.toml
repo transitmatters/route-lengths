@@ -1,18 +1,19 @@
-[tool.poetry]
+[project]
 name = "route-lengths"
 version = "0.1.0"
-description = ""
-authors = ["Ian Reynolds <ireynolds@transitmatters.info>"]
+description = "Calculate the length of MBTA routes from GTFS bundles"
+authors = [{ name = "Ian Reynolds", email = "ireynolds@transitmatters.info" }]
+requires-python = ">=3.12"
+dependencies = [
+    "mbta-gtfs-sqlite>=1.0.1,<2",
+    "geopy>=2.3.0,<3",
+    "tqdm>=4.66.1,<5",
+]
 
-[tool.poetry.dependencies]
-python = "^3.8"
-black = "^23.3.0"
-mbta-gtfs-sqlite = "^1.0.1"
-geopy = "^2.3.0"
-tqdm = "^4.66.1"
+[dependency-groups]
+dev = [
+    "black>=23.3.0",
+]
 
-[tool.poetry.dev-dependencies]
-
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.uv]
+package = false

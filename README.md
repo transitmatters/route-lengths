@@ -32,18 +32,17 @@ This is code to calculate the length of MBTA routes from GTFS bundles. The outpu
 
 Requirements:
 
-- Python 3.8+
-- [Python Poetry](https://python-poetry.org/)
+- [uv](https://docs.astral.sh/uv/) (it will install Python 3.12+ for you if needed)
 
 To install dependencies:
 
 ```bash
-poetry install
+uv sync
 ```
 
 ## Configuring the script
 
-To configure the script, copy `config.example.json` to `config.json` and edit the values as needed.
+To configure the script, copy `examples/config.example.json` to `config.json` and edit the values as needed.
 
 - `feedsPath` is a path to any directory on your computer where you'd like to hold a cache of GTFS bundles. The script will automatically download them and store them here. Other TM tools use this same directory, so if you already have it set up, you can use the same path.
 - `targetRouteIds` is a list of route IDs to calculate the length of. You can find a list of route IDs in the `routes.txt` file in any GTFS bundle.
